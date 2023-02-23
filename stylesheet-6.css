@@ -1,0 +1,17 @@
+*{ padding: : 0 ;margin: 0;box-sizing: border-box; }
+body{
+    overflow: : hidden;
+    /* padding-left : 50px; */
+    /* padding-right : 50px; */
+}
+h1{
+    font-family: 'Tilt Neon', cursive;
+}
+p{
+    font-size: 25px;
+    opacity: .5;
+}
+/* img{
+    height: 200px;
+    width: 200px;
+} */
